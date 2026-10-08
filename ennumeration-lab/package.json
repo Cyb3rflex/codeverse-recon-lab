@@ -1,0 +1,13 @@
+{
+  "name": "codeverse-enumeration-lab",
+  "version": "1.0.0",
+  "description": "CodeVerse Cybersecurity Enumeration Lab - fictional company web application",
+  "main": "app/server.js",
+  "scripts": {
+    "start": "node app/server.js",
+    "dev": "node app/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

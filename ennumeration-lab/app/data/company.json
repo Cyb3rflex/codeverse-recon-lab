@@ -1,0 +1,40 @@
+{
+  "company": {
+    "name": "Northstar Logistics Technologies",
+    "shortName": "Northstar",
+    "industry": "Logistics Technology",
+    "headquarters": "Lagos, Nigeria",
+    "website": "http://127.0.0.1:3000",
+    "environment": "development"
+  },
+  "description": "Northstar Logistics Technologies provides software and digital infrastructure for logistics companies, fleet operators and last-mile delivery businesses across West Africa.",
+  "services": [
+    {
+      "name": "FleetTrack",
+      "description": "A fleet monitoring platform that helps logistics companies monitor vehicles, routes and delivery activity."
+    },
+    {
+      "name": "DispatchHub",
+      "description": "A dispatch management platform for assigning deliveries and coordinating drivers."
+    },
+    {
+      "name": "Northstar API",
+      "description": "A REST API used by Northstar applications and selected business integrations."
+    }
+  ],
+  "locations": [
+    "Lagos",
+    "Abuja",
+    "Kumasi"
+  ],
+  "technology": {
+    "runtime": "Node.js",
+    "framework": "Express",
+    "apiPrefix": "/api",
+    "environment": "development"
+  },
+  "contact": {
+    "email": "hello@northstar-logistics.test",
+    "support": "support@northstar-logistics.test"
+  }
+}
